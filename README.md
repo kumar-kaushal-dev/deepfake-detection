@@ -1,4 +1,4 @@
-# 🧠 Deepfake Detection Using Deep Learning Techniques
+# 🧠 Deepfake Detection Using Deep Learning Techniques 
 
 🎯 **Detect AI-manipulated videos using advanced deep learning models.**  
 This project demonstrates the application of deep learning for detecting manipulated media—commonly known as deepfakes—with high accuracy and real-world reliability.
